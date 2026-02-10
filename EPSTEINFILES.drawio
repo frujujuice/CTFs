@@ -19,7 +19,7 @@
         <mxCell id="45U3ZAirsmVF6Tz1DG1x-2" value="Ghislaine Maxwell" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="565" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="45U3ZAirsmVF6Tz1DG1x-3" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(31, 31, 31);&quot;&gt;Nadia Marcinkova&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="45U3ZAirsmVF6Tz1DG1x-3" value="&lt;p&gt;&lt;span style=&quot;text-align: start; background-color: light-dark(rgb(237, 237, 237), rgb(0, 0, 0));&quot;&gt;Nadia Marcinkova&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="987.5" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="45U3ZAirsmVF6Tz1DG1x-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="45U3ZAirsmVF6Tz1DG1x-2" target="45U3ZAirsmVF6Tz1DG1x-1">
